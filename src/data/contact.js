@@ -25,7 +25,7 @@ const data = [
     icon: faInstagram,
   },
   {
-    link: 'https://www.linkedin.com/in/michaelldangelo',
+    link: 'https://www.linkedin.com/in/hukam-singh9',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
